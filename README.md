@@ -1,5 +1,5 @@
 # Clock and Simple Recursion
-As instructed [here](https://docs.google.com/document/d/1wIcWr4Q6M8O0AZKJ5V_OxxabMd3N2pV_HjrF87ZMSvA/edit?pli=1). As for my thoughts on this assignment, the first one was easy and simple while the second one was significantly harder and took me more time to accomplish.
+As instructed [here](https://docs.google.com/document/d/1wIcWr4Q6M8O0AZKJ5V_OxxabMd3N2pV_HjrF87ZMSvA/edit?pli=1). As for my thoughts on this assignment, the first one was easy and simple while the second one was significantly harder and took me more time to accomplish. You can find the code for each task in their respective directory.
 
 ## 1
 Negates invalid user input and only allows valid hours and minutes. Uses a simple clock angle formula.
